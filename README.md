@@ -17,3 +17,5 @@ Email: qinzi.tan@newschool.edu (Office hours by appointment/email)
 [Zihao Chen](https://github.com/qinzitan/CreativeCodingOF_Fall18)  
 [Feibi Zheng](https://github.com/zhenf091/CCOF_Fall2018_Zheng_Feibi)  
 [Brooke Smith](https://github.com/smitb383/BrookeSmith_OFhw)
+[Yutong Xie](https://github.com/yutongxxx/CCOF_Fall2018_XIE_YUTONG#ccof_fall2018_xie_yutong)
+
